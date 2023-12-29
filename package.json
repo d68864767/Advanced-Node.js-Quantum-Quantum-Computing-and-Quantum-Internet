@@ -1,0 +1,27 @@
+{
+  "name": "advanced-nodejs-quantum-computing-and-internet",
+  "version": "1.0.0",
+  "description": "Advanced Node.js Quantum Computing and Quantum Internet",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/advanced-nodejs-quantum-computing-and-internet.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Quantum Computing",
+    "Quantum Internet"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yourusername/advanced-nodejs-quantum-computing-and-internet/issues"
+  },
+  "homepage": "https://github.com/yourusername/advanced-nodejs-quantum-computing-and-internet#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
